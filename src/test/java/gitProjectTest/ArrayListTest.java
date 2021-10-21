@@ -15,6 +15,7 @@ public class ArrayListTest {
 		System.out.println(al);
 
 		System.out.println("Print Separately");
+		//Printing all the countries in log
 
 		for (String ele : al) {
 			System.out.println(ele);
